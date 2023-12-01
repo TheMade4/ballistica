@@ -22,7 +22,7 @@
     "bascenev1.SceneV1AppMode",
     "babase.EmptyAppMode"
   ],
-  "efrocache_repository_url": "https://files.ballistica.net/cache/ba1",
+  "efrocache_repository_url": "https://raw.githubusercontent.com/TheMade4/efrocache-mirror/master/ba1",
   "name": "BallisticaKit",
   "public": true,
   "pylint_ignored_untracked_deps": [
